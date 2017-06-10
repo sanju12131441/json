@@ -1,0 +1,53 @@
+{
+	"amazonDatastore": [{
+		"mobilePhones": [{
+				"brand": "apple",
+				"prouctName": "iphone 6",
+				"color": "spacegrey",
+				"marketPrice": 30700,
+				"discountPrice": 25990,
+				"cashOnDelivery": "eligible"
+			},
+			{
+				"brand": "HTC",
+				"prouctName": "htcdesire728",
+				"color": "purpleMyst",
+				"marketPrice": 20000,
+				"discountPrice": 14820,
+				"cashonDelivery": "eligible"
+			}
+		],
+		"laptops": [{
+				"brand": "Dell",
+				"prouctName": "inspiron11232",
+				"color": "black",
+				"marketPrice": 58200,
+				"discountPrice": 45800,
+				"cashonDelivery": "notEligible"
+			},
+			{
+				"brand": "hp",
+				"prouctName": "pavilion23",
+				"color": "white",
+				"marketPrice": 85000,
+				"discountPrice": 79000,
+				"cashonDelivery": "eligible"
+			}
+		],
+		"shirts": [{
+				"brand": "campusSutra",
+				"color": "pink",
+				"size": "l",
+				"marketPrice": 1000,
+				"discountPrice": 800
+			},
+			{
+				"brand": "levis",
+				"color": "orange",
+				"size": "s",
+				"marketPrice": 2000,
+				"discountPrice": 1800
+			}
+		]
+	}]
+}
